@@ -1,0 +1,1 @@
+import fetchGeojson from './fetchGeojson'
